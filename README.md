@@ -1,4 +1,6 @@
-## Hi there 👋
+## Tristan Kanitz
+
+Class of 2026 at Colby College, studying music-interdisciplinary computation. I am currently pursuing a master's degree program in music composition. My interests include music technology and the intersection between acoustic and electronic music.
 
 <!--
 **PenguinTwin2/PenguinTwin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
